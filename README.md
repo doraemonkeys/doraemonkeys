@@ -6,7 +6,7 @@
         </ul>
     </div>
     <div style="width: 50%;">
-        <img src="https://github.com/Doraemonkeys/Doraemonkeys/main/assets/ferris.gif" alt="Ferris the Rustacean gif">
+        <img src="https://github.com/Doraemonkeys/Doraemonkeys/blob/main/assets/ferris.gif" alt="Ferris the Rustacean gif">
     </div>
 </div>
 
