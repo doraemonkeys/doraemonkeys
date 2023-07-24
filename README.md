@@ -1,7 +1,7 @@
 <h4>Hello there, I'm Doraemon 👋</h4>
 
 <a href="https://github.com">
-    <img src="https://github.com/Doraemonkeys/Doraemonkeys/blob/main/assets/ferris-go.gif" align="right" width="20%" />
+    <img src="https://github.com/Doraemonkeys/Doraemonkeys/blob/main/assets/ferris-go2.gif" align="right" width="20%" />
 </a>
 
 <ul>
