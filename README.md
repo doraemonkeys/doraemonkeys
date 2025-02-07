@@ -4,7 +4,7 @@
     <img src="https://github.com/Doraemonkeys/Doraemonkeys/blob/main/assets/ferris-go2.gif" align="right" width="20%" />
 </a>
 
- <p>Software engineer focused on blockchain, distributed networks, data storage, and efficiency tools. Lifelong learner.</p>
+ <p>focused on blockchain, distributed networks, data storage, and efficiency tools. Lifelong learner.</p>
 
 <ul>
     <li>I love open source. ❤️</li>
