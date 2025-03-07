@@ -14,5 +14,5 @@
 
 ---
 
-[![](https://raw.githubusercontent.com/Doraemonkeys/Doraemonkeys/main/profile-summary-card-output/vue/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
-[![](https://raw.githubusercontent.com/Doraemonkeys/Doraemonkeys/main/profile-summary-card-output/vue/1-repos-per-language.svg)](https://github.com/Doraemonkeys?tab=repositories)
+| <a href="https://github.com/Doraemonkeys?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api?username=doraemonkeys&show_icons=true&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=doraemonkeys&layout=compact&hide=javascript&hide_border=true" /></a> |
+| ------------- | ------------- |
