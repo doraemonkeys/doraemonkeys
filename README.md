@@ -1,4 +1,4 @@
-<h4>Hello there, I'm Ricky 👋</h4>
+<h4>Hello there, I'm doraemon 👋</h4>
 
 <a href="https://github.com">
     <img src="https://github.com/Doraemonkeys/Doraemonkeys/blob/main/assets/ferris-go2.gif" align="right" width="20%" />
