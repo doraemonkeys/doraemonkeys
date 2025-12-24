@@ -14,5 +14,5 @@
 
 ---
 
-| <a href="https://github.com/Doraemonkeys?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api?username=doraemonkeys&show_icons=true&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=doraemonkeys&layout=compact&hide=javascript&hide_border=true" /></a> |
+| <a href="https://github.com/Doraemonkeys?tab=repositories"><img align="center" src="https://github-readme-stats-seven-sigma-97.vercel.app/api?username=doraemonkeys&show_icons=true&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/Doraemonkeys?tab=repositories"><img align="center" src="https://github-readme-stats-seven-sigma-97.vercel.app/api/top-langs/?username=doraemonkeys&layout=compact&hide=javascript&hide_border=true" /></a> |
 | ------------- | ------------- |
